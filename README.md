@@ -12,4 +12,3 @@ heitor.rigoni@escola.pr.gov.br
 
 @ferrugem8
 
-![descrição do GIF](link GIF do Tenor)
